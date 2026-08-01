@@ -4,7 +4,7 @@
 
 ### Frontend Developer · React & Modern Web
 
-Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum.  
+Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum.<br>
 Öğrenmeye, üretmeye ve projelerimi her sürümde daha ileri taşımaya odaklanıyorum.
 
 [Portföy](https://rio130.github.io/mert-can-keskin-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mert-can-keskin-55289a317/) · [E-posta](mailto:beymert28@gmail.com)

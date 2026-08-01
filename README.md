@@ -7,7 +7,7 @@
 Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum.<br>
 Öğrenmeye, üretmeye ve projelerimi her sürümde daha ileri taşımaya odaklanıyorum.
 
-[Portföy](https://rio130.github.io/mert-can-keskin-portfolio/) · [LinkedIn](https://www.linkedin.com/in/mert-can-keskin-55289a317/) · [E-posta](mailto:beymert28@gmail.com)
+[Portföy](https://rio130.github.io) · [LinkedIn](https://www.linkedin.com/in/mert-can-keskin-55289a317/) · [E-posta](mailto:beymert28@gmail.com)
 
 </div>
 
@@ -29,7 +29,7 @@ Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum.<b
 |---|---|---|
 | [Kayıt Defterim](https://github.com/Rio130/kayit-defterim) | Kişisel finans ve kayıt yönetimi için güvenli, tam kapsamlı web uygulaması. | React, ASP.NET Core, MySQL, JWT |
 | [Hava Durumum](https://rio130.github.io/hava-durumum/) | Anlık hava verileri, harita ve grafiklerle hazırlanmış responsive hava durumu deneyimi. | JavaScript, Leaflet, Chart.js |
-| [Kişisel Portföy](https://rio130.github.io/mert-can-keskin-portfolio/) | Projelerimi ve çalışma alanlarımı sunduğum modern, erişilebilir portföy sitesi. | HTML, CSS, JavaScript |
+| [Kişisel Portföy](https://rio130.github.io) | Projelerimi ve çalışma alanlarımı sunduğum modern, erişilebilir portföy sitesi. | HTML, CSS, JavaScript |
 
 ## Şu an
 

@@ -2,10 +2,9 @@
 
 # Mert Can Keskin
 
-### Frontend Developer · React & Modern Web
+### Frontend Developer · React · Next.js · TypeScript
 
-Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum.<br>
-Öğrenmeye, üretmeye ve projelerimi her sürümde daha ileri taşımaya odaklanıyorum.
+Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum. Modern frontend geliştirme pratiğimi, gerektiğinde backend ve veritabanı deneyimiyle birleştiriyorum.
 
 [Portföy](https://rio130.github.io) · [LinkedIn](https://www.linkedin.com/in/mert-can-keskin-55289a317/) · [E-posta](mailto:beymert28@gmail.com)
 
@@ -13,32 +12,23 @@ Kullanıcı odaklı, hızlı ve erişilebilir web deneyimleri geliştiriyorum.<b
 
 ## Teknolojiler
 
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=512BD4)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-111827?style=flat-square&logo=dotnet&logoColor=512BD4)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `ASP.NET Core` · `C#` · `MySQL` · `Firebase`
 
 ## Öne çıkan projeler
 
-| Proje | Açıklama | Teknolojiler |
+| Proje | Ne yapıyor? | Teknolojiler |
 |---|---|---|
-| [Kayıt Defterim](https://github.com/Rio130/kayit-defterim) | Kişisel finans ve kayıt yönetimi için güvenli, tam kapsamlı web uygulaması. | React, ASP.NET Core, MySQL, JWT |
-| [Hava Durumum](https://rio130.github.io/hava-durumum/) | Anlık hava verileri, harita ve grafiklerle hazırlanmış responsive hava durumu deneyimi. | JavaScript, Leaflet, Chart.js |
-| [Kişisel Portföy](https://rio130.github.io) | Projelerimi ve çalışma alanlarımı sunduğum modern, erişilebilir portföy sitesi. | HTML, CSS, JavaScript |
+| [İlan Pusulası](https://github.com/Rio130/ilan-pusulasi) · [Demo](https://rio130.github.io/ilan-pusulasi/) | CV ile iş ilanını tarayıcıda yerel olarak karşılaştırır; yetkinlik eşleşmelerini ve gelişim alanlarını görünür kılar. | Next.js, React, TypeScript |
+| [Başvuru Rotası](https://github.com/Rio130/basvuru-rotasi) · [Demo](https://rio130.github.io/basvuru-rotasi/) | Başvuruları, görüşmeleri ve teklifleri görsel bir iş akışında takip etmeyi sağlar. | Next.js, React, TypeScript |
+| [Kayıt Defterim](https://github.com/Rio130/kayit-defterim) | Gelir-gider ve kişisel kayıt yönetimi için tam kapsamlı full-stack uygulama. | React, ASP.NET Core, MySQL, JWT |
+| [Hava Durumum](https://github.com/Rio130/hava-durumum) · [Demo](https://rio130.github.io/hava-durumum/) | Canlı hava verilerini harita ve grafiklerle sunan responsive uygulama. | JavaScript, Leaflet, Chart.js |
+| [Kişisel Portföy](https://github.com/Rio130/mert-can-keskin-portfolio) · [Site](https://rio130.github.io) | Projelerimi ve çalışma yaklaşımımı sunduğum erişilebilir portföy sitesi. | HTML, CSS, JavaScript |
 
-## Şu an
+## Odak alanım
 
-- React ile yeniden kullanılabilir arayüzler geliştiriyorum.
-- Frontend bilgimi backend ve veritabanı deneyimiyle birleştiriyorum.
-- Açık kaynak projeleri ve yeni iş birlikleriyle ilgileniyorum.
+- Yeniden kullanılabilir ve erişilebilir React arayüzleri
+- Modern Next.js ve TypeScript uygulamaları
+- Kullanıcı deneyimini güçlendiren sade, responsive tasarım
+- Frontend ile backend ve veritabanı katmanları arasında uçtan uca geliştirme
 
----
-
-<div align="center">
-  <sub>Yeni bir proje veya iş birliği için benimle iletişime geçebilirsin.</sub>
-</div>
+İş birliği veya frontend fırsatları için iletişime geçebilirsin.
